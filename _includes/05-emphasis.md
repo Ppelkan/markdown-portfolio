@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am so lost*
+_No, really, I am lost_
+
+**Does anyone hear me?**
+__ Oh my good **this is so hard** why is this so difficult__
